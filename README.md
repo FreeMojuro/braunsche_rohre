@@ -1,5 +1,5 @@
-## braunsche_rohre
-# Simulation Controls
+# Braunsche Röhre
+## Simulation Controls
 
 Keyboard controls:
 
